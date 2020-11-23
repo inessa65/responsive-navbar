@@ -1,0 +1,49 @@
+[{
+"img":"./image/pic2.jpg" ,
+"title": "Lorem ipsum dolor sit amet." ,
+"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+
+},
+{
+"img":"./image/pic3.jpeg" ,
+"title": "Lorem ipsum dolor sit amet." ,
+"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+
+},
+{
+"img":"./image/pic2.jpg" ,
+"title": "Lorem ipsum dolor sit amet." ,
+"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+
+},
+{
+    "img":"./image/pic3.jpeg" ,
+    "title": "Lorem ipsum dolor sit amet." ,
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+    
+    },
+    {
+        "img":"./image/pic3.jpeg" ,
+        "title": "Lorem ipsum dolor sit amet." ,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+        
+        },
+        {
+            "img":"./image/pic3.jpeg" ,
+            "title": "Lorem ipsum dolor sit amet." ,
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+            
+            },
+            {
+                "img":"./image/pic3.jpeg" ,
+                "title": "Lorem ipsum dolor sit amet." ,
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+                
+                },
+                {
+                    "img":"./image/pic3.jpeg" ,
+                    "title": "Lorem ipsum dolor sit amet." ,
+                    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, voluptatem laborum. Quos nisi possimus voluptatem..."
+                    
+                    }
+]
